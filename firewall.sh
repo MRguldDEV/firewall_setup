@@ -157,5 +157,3 @@ echo
 echo "SSH port: $SSH_PORT"
 echo "HTTP: 80/tcp"
 echo "HTTPS: 443/tcp"
-echo "Minecraft: 25565/tcp"
-echo "Minecraft: 25565/udp"
